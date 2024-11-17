@@ -16,14 +16,11 @@
     }
   },
   "topbarLinks": [
-    {
-      "name": "Discord",
-      "url": "https://snt.gg"
-    }
+   
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Discord",
+    "url": "https://snt.gg"
   },
   "tabs": [
     {
